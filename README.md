@@ -9,13 +9,13 @@ MacOS-Capitan-Light
 MacOS-Capitan-Dark
 ![Fourth Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/MacOS-Capitan-Dark.png)  
 MacOS-Seirra-Light
-![First Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/MacOS-Seirra-Light.png)  
+![Fifth Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/MacOS-Seirra-Light.png)  
 MacOS-Seirra-Dark
-![Second Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/MacOS-Seirra-Dark.png)
+![Sixth Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/MacOS-Seirra-Dark.png)
 elementary-Light
-![Third Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/elementary-Light.png)
+![Seventh Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/elementary-Light.png)
 elementary-Dark
-![Fourth Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/elementary-Dark.png)  
+![Eighth Screenshot](https://raw.githubusercontent.com/Macintosh98/MacOS-Mojave-Plank-themes/master/preview/elementary-Dark.png)  
 
 
 To install themes :
